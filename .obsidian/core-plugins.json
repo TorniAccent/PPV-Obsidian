@@ -4,13 +4,13 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
   "note-composer",
   "command-palette",
   "editor-status",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "word-count",
-  "open-with-default-app",
   "file-recovery"
 ]
