@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Action.md",
-                "mode": "source",
+                "file": "03 Periodic/03 Monthly/03 Monthly.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Action/02 Action.md",
+                "file": "03 Periodic/03 Monthly/03 Monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8d11b109c49383a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,9 +128,14 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "89f202373953f5e6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "03 Periodic/02 Weekly/02 Weekly.md",
+    "02 Action/04 Values/04 Values.md",
+    "02 Action/02 Action.md"
+  ]
 }

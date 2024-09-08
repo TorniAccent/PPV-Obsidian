@@ -1,6 +1,7 @@
 ---
 cssClasses: cards
-banner: https://wallpaperboat.com/wp-content/uploads/2019/06/minimalist-desktop-36.jpg
+banner: "https://wallpaperboat.com/wp-content/uploads/2019/06/minimalist-desktop-36.jpg"
+banner_y: 0.62649
 ---
 ⠀
 # Values Dashboard
