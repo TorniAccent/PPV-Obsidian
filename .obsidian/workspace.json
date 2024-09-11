@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/03 Monthly/03 Monthly.md",
+                "file": "04 Templates/Daily Template.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395
   },
   "right": {
     "id": "da968b61090d63b4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/03 Monthly/03 Monthly.md",
+                "file": "04 Templates/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,33 @@
   },
   "active": "89f202373953f5e6",
   "lastOpenFiles": [
-    "03 Periodic/02 Weekly/02 Weekly.md",
-    "02 Action/04 Values/04 Values.md",
-    "02 Action/02 Action.md"
+    "04 Templates/Untitled.md",
+    "04 Templates/Value Template.md",
+    "04 Templates/Goal Template.md",
+    "03 Periodic/01 Daily/2024/09-September/2024-09-11.md",
+    "02 Action/01 Tasks/2022-  Wk 10 Tasks.md",
+    "03 Periodic/01 Daily/2024/09-September/2024-09-10.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-27.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-26.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-25.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-24.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-23.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-22.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-21.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-20.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-18.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-17.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-16.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-14.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
+    "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
+    "03 Periodic/02 Weekly/2022/02-February/2022-W09.md",
+    "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
+    "03 Periodic/01 Daily/01 Daily.md",
+    "06 Guide/Projects, Goals, and Values.md",
+    "06 Guide/Quick Start.md",
+    "03 Periodic/01 Daily/2024/09-September",
+    "03 Periodic/01 Daily/2024"
   ]
 }

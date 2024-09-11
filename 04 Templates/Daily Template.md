@@ -4,7 +4,7 @@ full-date: <% tp.file.title %>
 week: <% tp.date.now("YYYY-[W]ww", 0, tp.file.title, "YYYY-MM-DD") %>
 month: <% tp.date.now("YYYY - MM-MMMM", 0, tp.file.title, "YYYY-MM-DD") %>
 year: <% tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
-banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
+banner: "https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de"
 ---
 ⠀
 ###### [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|↶ YESTERDAY]] ⁝ [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|TOMORROW ↷]]
