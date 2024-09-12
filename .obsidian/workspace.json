@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Templates/Daily Template.md",
+                "file": "06 Guide/Quick Start.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4037fef6c31d5cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 416
   },
   "right": {
     "id": "da968b61090d63b4",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Templates/Daily Template.md",
+                "file": "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,13 +145,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89f202373953f5e6",
+  "active": "4037fef6c31d5cd0",
   "lastOpenFiles": [
+    "06 Guide/Quick Start.md",
+    "README.md",
+    "02 Action/02 Action.md",
+    "Home.md",
+    "06 Guide/Alignment Dashboard.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
+    "04 Templates/Goal Template.md",
+    "04 Templates/Daily Template.md",
+    "04 Templates/Weekly Template.md",
+    "04 Templates/Monthly Template.md",
+    "04 Templates/Project Template.md",
+    "03 Periodic/03 Monthly/2022/2022 - 02-February.md",
+    "03 Periodic/01 Daily/2024/09-September/2024-09-11.md",
+    "02 Action/01 Tasks/Views/☑️ Completed Tasks.md",
+    "02 Action/01 Tasks/Views/🗓️ Upcoming Tasks.md",
+    "02 Action/01 Tasks/2022-  Wk 10 Tasks.md",
     "04 Templates/Untitled.md",
     "04 Templates/Value Template.md",
-    "04 Templates/Goal Template.md",
-    "03 Periodic/01 Daily/2024/09-September/2024-09-11.md",
-    "02 Action/01 Tasks/2022-  Wk 10 Tasks.md",
     "03 Periodic/01 Daily/2024/09-September/2024-09-10.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-27.md",
@@ -147,19 +173,6 @@
     "03 Periodic/01 Daily/2022/02-February/2022-02-24.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-23.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-22.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-21.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-20.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-18.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-17.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-16.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-14.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
-    "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
-    "03 Periodic/02 Weekly/2022/02-February/2022-W09.md",
-    "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
-    "03 Periodic/01 Daily/01 Daily.md",
-    "06 Guide/Projects, Goals, and Values.md",
-    "06 Guide/Quick Start.md",
     "03 Periodic/01 Daily/2024/09-September",
     "03 Periodic/01 Daily/2024"
   ]
