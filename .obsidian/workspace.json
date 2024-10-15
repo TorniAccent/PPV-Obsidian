@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Guide/Quick Start.md",
+                "file": "03 Periodic/01 Daily/2024/10-October/2024-10-15.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Templates/Weekly Template.md",
+                "file": "02 Action/02 Projects/Build OLM Repo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Templates/Weekly Template.md",
+                "file": "03 Periodic/01 Daily/2024/10-October/2024-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +144,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4037fef6c31d5cd0",
+  "active": "89f202373953f5e6",
   "lastOpenFiles": [
+    "06 Guide/Quick Start.md",
+    "02 Action/02 Projects/Build OLM Repo.md",
+    "03 Periodic/01 Daily/2024/10-October/2024-10-15.md",
+    "04 Templates/Weekly Template.md",
+    "03 Periodic/01 Daily/2024/10-October",
     "03 Periodic/03 Monthly/2022/2022 - 02-February.md",
     "03 Periodic/03 Monthly/03 Monthly.md",
     "03 Periodic/02 Weekly/2022/02-February/2022-W09.md",
     "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
     "03 Periodic/02 Weekly/2022/02-February/2022-W11.md",
     "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
-    "04 Templates/Weekly Template.md",
     "03 Periodic/02 Weekly/02 Weekly.md",
     "03 Periodic/01 Daily/01 Daily.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
@@ -166,13 +169,10 @@
     "README.md",
     "02 Action/01 Tasks/01 Tasks.md",
     "Untitled.md",
-    "06 Guide/Quick Start.md",
     "02 Action/02 Action.md",
     "04 Templates/Goal Template.md",
     "04 Templates/Daily Template.md",
     "04 Templates/Monthly Template.md",
-    "04 Templates/Project Template.md",
-    "03 Periodic/01 Daily/2024/09-September/2024-09-11.md",
     "03 Periodic/01 Daily/2024/09-September",
     "03 Periodic/01 Daily/2024"
   ]
