@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "c3ca6e243d5c23a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Templates/Daily Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Template"
-            }
-          },
-          {
             "id": "4037fef6c31d5cd0",
             "type": "leaf",
             "state": {
@@ -189,10 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3ca6e243d5c23a7",
+  "active": "4037fef6c31d5cd0",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
     "03 Periodic/01 Daily/01 Daily.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
+    "02 Action/02 Projects/Build OLM Repo.md",
+    "04 Templates/Daily Template.md",
     "03 Periodic/01 Daily/2024/10-October/2024-10-24.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-15.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-14.md",
@@ -204,7 +192,6 @@
     "03 Periodic/02 Weekly/2022/02-February/2022-W09.md",
     "03 Periodic/01 Daily/2024/10-October/2024-10-15.md",
     "06 Guide/Quick Start.md",
-    "02 Action/02 Projects/Build OLM Repo.md",
     "04 Templates/Weekly Template.md",
     "03 Periodic/01 Daily/2024/10-October",
     "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
@@ -217,7 +204,6 @@
     "Home.md",
     "README.md",
     "02 Action/01 Tasks/01 Tasks.md",
-    "Untitled.md",
     "03 Periodic/01 Daily/2024/09-September",
     "03 Periodic/01 Daily/2024"
   ]
