@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "fb6ca5b19588f753",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
             "id": "4037fef6c31d5cd0",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb6ca5b19588f753",
+  "active": "c3ca6e243d5c23a7",
   "lastOpenFiles": [
     "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
     "03 Periodic/01 Daily/01 Daily.md",
